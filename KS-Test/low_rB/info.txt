@@ -1,0 +1,10 @@
+
+
+
+simulationValues = {
+        rB     -> 0.5, 
+        gamma  -> 150 Degree,
+        deltaB -> 60 Degree
+};
+
+
